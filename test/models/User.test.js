@@ -1,3 +1,5 @@
+const User = require('./../../app/models/User')
+
 describe("Unit Test for User class",() =>{
     test('Create an User object', () =>{
         // Aquí invocas el código que vas a usar en tu app
